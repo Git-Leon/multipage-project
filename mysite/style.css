@@ -1,0 +1,23 @@
+a {
+    color: white;
+}
+
+body {
+    background-color: purple;
+    color: yellow;
+}
+
+table {
+    border: 1px;
+    border-color: blue;
+}
+
+tr {
+    background-color: black;
+    color: cyan;
+}
+
+div.row {
+    border: solid;
+    border-color: red;
+}
